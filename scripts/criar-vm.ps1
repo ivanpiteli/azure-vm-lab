@@ -4,14 +4,14 @@
 Connect-AzAccount
 
 # Criar grupo de recursos
-New-AzResourceGroup -Name "LabGrupo" -Location "BrazilSouth"
+New-AzResourceGroup -Name "LabGrupo-01" -Location "BrazilSouth"
 
 # Criar VM Windows
 New-AzVM `
-  -ResourceGroupName "LabGrupo" `
-  -Name "LabVMWin" `
+  -ResourceGroupName "LabGrupo-01" `
+  -Name "LabVM-01" `
   -Location "BrazilSouth" `
-  -VirtualNetworkName "LabVnet" `
-  -SubnetName "LabSubnet" `
-  -SecurityGroupName "LabNSG" `
-  -PublicIpAddressName "LabIP"
+  -VirtualNetworkName "LabVnet-01" `
+  -SubnetName "LabSubnet-01" `
+  -SecurityGroupName "LabNSG-01" `
+  -PublicIpAddressName "LabIP-01"
