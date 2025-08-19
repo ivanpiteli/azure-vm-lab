@@ -15,7 +15,7 @@ Preencha os detalhes:
 
 Assinatura: Selecione sua assinatura do Azure.
 
-Grupo de recursos: Dê um nome significativo ao seu grupo (ex: LabVM_MeuProjeto).
+Grupo de recursos: Dê um nome significativo ao seu grupo (ex: LabGrupo-01).
 
 Região: Escolha a região onde você deseja que seus recursos sejam implantados (ex: Brazil South).
 
@@ -35,7 +35,7 @@ Na guia "Básico":
 
 Grupo de recursos: Selecione o grupo de recursos que você criou anteriormente.
 
-Nome da máquina virtual: Dê um nome para sua VM (ex: MinhaPrimeiraVM).
+Nome da máquina virtual: Dê um nome para sua VM (ex: LabVM-01).
 
 Região: Deve ser a mesma do seu grupo de recursos.
 
