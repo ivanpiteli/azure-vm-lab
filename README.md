@@ -25,13 +25,6 @@ Este repositório contém resumos, anotações, dicas e scripts utilizados no la
 ## 🔎 Exemplo de Comando CLI
 
 ```bash
-az vm create   --resource-group MeuGrupo   --name MinhaVM   --image UbuntuLTS   --admin-username azureuser   --generate-ssh-keys
+az vm create   --resource-group MeuGrupo-01   --name MinhaVM-01   --image UbuntuLTS   --admin-username azureuser   --generate-ssh-keys
 ```
 
----
-
-## ✅ Status do Projeto
-
-✅ Estrutura criada  
-✅ Scripts adicionados  
-✅ Documentação iniciada  
