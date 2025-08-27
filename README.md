@@ -4,6 +4,27 @@ Este repositório contém resumos, anotações, dicas e scripts utilizados no la
 
 ---
 
+## 📌 Tópicos abordados
+
+### 1. Criação de Grupo de Recursos
+![Criação de Grupo de Recursos](images/criacao-grupo-recursos.png)
+
+### 2. Criação de VM via Portal
+![Criação de VM via Portal](images/Create_VM-AZ-01.png)
+![Criação de VM via Portal](images/Create_VM-AZ-02.png)
+![Criação de VM via Portal](images/Create_VM-AZ-03.png)
+
+### 3. Configuração de Rede e NSG
+![Configuração de Rede e NSG](images/configuracao-rede-nsg.png)
+
+### 4. Acesso Remoto (RDP/SSH)
+![Acesso Remoto](images/acesso-remoto.png)
+
+### 5. Monitoramento e Ajuste de Recursos
+![Monitoramento e Ajuste](images/monitoramento-ajuste.png)
+
+---
+
 ## 📘 Conteúdo do Repositório
 
 - **/images** → prints de tela do laboratório  
