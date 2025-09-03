@@ -20,9 +20,9 @@ Este repositório contém resumos, anotações, dicas e scripts utilizados no la
 
 ### 3. Configuração de Rede e NSG
 
-![Configuração de Rede e NSG](images/configuracao-rede.png)
+![Configuração de Rede](images/configuracao-rede.png)
 
-![Configuração de Rede e NSG](images/configuracao-nsg.png)
+![Configuração de NSG](images/configuracao-nsg.png)
 
 ### 4. Acesso Remoto (RDP/SSH)
 ![Acesso Remoto](images/acesso-remoto.png)
