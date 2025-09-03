@@ -25,10 +25,10 @@ Este repositório contém resumos, anotações, dicas e scripts utilizados no la
 ![Configuração de NSG](images/Configuracao-nsg.png)
 
 ### 4. Acesso Remoto (RDP/SSH)
-![Acesso Remoto](images/acesso-remoto.png)
+![Acesso Remoto](images/Acesso-remoto.png)
 
 ### 5. Monitoramento e Ajuste de Recursos
-![Monitoramento e Ajuste](images/monitoramento-ajuste.png)
+![Monitoramento e Ajuste](images/Monitoramento-ajuste.png)
 
 ---
 
